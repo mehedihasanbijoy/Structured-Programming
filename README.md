@@ -63,7 +63,7 @@
       <p>Theory</p>
     </th>
     <th>Reading</th>
-    <th>Homework</th>
+    <th>Problems</th>
   </tr>
   
   <tr>
@@ -72,7 +72,7 @@
       <p>First C Program, Character Set, C Tokens, Keywords and Identifiers, Constants and Variables, Data Types, Operators and Expressions</p>
     </td>
     <td><b>B0</b>[Chapter01]</td>
-    <td><a href="" target="_blank">Problems</a></td>
+    <td><a href="" target="_blank">ProblemSetA</a></td>
   </tr>
   
   
