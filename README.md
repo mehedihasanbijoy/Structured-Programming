@@ -60,10 +60,10 @@
   <tr>
     <th>WEEK</th>
     <th>
-      <p>Contents</p>
+      <p>Theory</p>
     </th>
     <th>Reading</th>
-    <th>Problems</th>
+    <th>Homework</th>
   </tr>
   
   <tr>
