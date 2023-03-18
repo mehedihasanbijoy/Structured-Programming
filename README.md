@@ -21,6 +21,7 @@
     <td>
       <p>Write a C program that prompts the user to insert an integer value, a decimal number and his/her nick name and print the inserted value as output.</p>
     </td>
+    <td><a href="" target="_blank">Solution</a></td>
   </tr>
   
   <tr>
