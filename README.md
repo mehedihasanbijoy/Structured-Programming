@@ -9,7 +9,8 @@
   </tr>
 
   <tr>
-    <th colspan="2", style="text-align: center"><b>Reference Books</b></th>
+    <th>PrimaryKey</th>
+    <th>Reference Books</th>
   </tr>
   
   <tr>
