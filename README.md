@@ -1,85 +1,89 @@
 <h1 align="center"> Structured-Programming </h1>
 
-<table>
+
+### 
+<table align="left">
 
   <tr>
-    <th colspan="3", style="text-align: center"><b>WEEK#00</b></th>
+    <td colspan="2", style="text-align: left">Reading Materials</td>
+  </tr>
+
+  <tr>
+    <th colspan="2", style="text-align: center"><b>Reference Books</b></th>
   </tr>
   
   <tr>
-    <td>00.</td>
-    <td> Write a C program that prints: <br>
-    <!---  --->
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp /'Bangladesh University of Business and Technology”\ <br>
-      Hello class of cse111!! Welcome to BUBT!  
-     </td>
-     <td><a href="" target="_blank">Solution</a></td>
-  </tr>
-  
-  <tr>
-    <td>01.</td>
+    <td>B0</td>
     <td>
-      <p>Write a C program that prompts the user to insert an integer value, a decimal number and his/her nick name and print the inserted value as output.</p>
+      <p>Teach Yourself C, 3rd Edition, by Herbert Schildt</p>
     </td>
-    <td><a href="" target="_blank">Solution</a></td>
   </tr>
   
   <tr>
-    <td>02.</td>
+    <td>B1</td>
     <td>
-      <p>Write a program to display the size of different data types in C.</p>
+      <p>Programming with C, 2nd Edition, by Byron Gottfried</p>
     </td>
-    <td><a href="" target="_blank">Solution</a></td>
   </tr>
   
   <tr>
-    <td>03.</td>
+    <td>B2</td>
     <td>
-      <p>Write a C program that reads in the radius of a circle and prints the circle’s diameter, circumference and area.</p>
+      <p>Introduction to C Programming, 2nd Edition, by Reema Thareja</p>
     </td>
-    <td><a href="" target="_blank">Solution</a></td>
   </tr>
   
   <tr>
-    <td>04.</td>
+    <td>B3</td>
     <td>
-      <p>Write a C program that asks the user to enter two numbers, obtains the two numbers from the user and prints the sum, product, difference, quotient and remainder of the two numbers.</p>
+      <p>Programming in ANSI C, 8th Edition, by  E. Balagurusamy</p>
     </td>
-    <td><a href="" target="_blank">Solution</a></td>
   </tr>
   
   <tr>
-    <td>05.</td>
+    <td>B4</td>
     <td>
-      <p>Write a C program that reads in 3 numbers and prints their average</p>
+      <p>Let Us C, 16th Edition, by Yashavant Kanetkar</p>
     </td>
-    <td><a href="" target="_blank">Solution</a></td>
+  </tr>
+  
+</table>
+
+
+
+<table align="left">
+  <tr>
+    <td colspan="4", style="text-align: left">Course Content & Schedule</td>
+  </tr>
+
+  <tr>
+    <th>WEEK</th>
+    <th>
+      <p>Contents</p>
+    </th>
+    <th>Reading</th>
+    <th>Problems</th>
   </tr>
   
   <tr>
-    <td>06.</td>
+    <td>WEEK#00</td>
     <td>
-      <p>Convert Celsius to Fahrenheit unit using the following formula. Take the value of C as input from user and calculate the value of F [ F = C * (9/5) + 32 ].</p>
+      <p>First C Program, Character Set, C Tokens, Keywords and Identifiers, Constants and Variables, Data Types, Operators and Expressions</p>
     </td>
-    <td><a href="" target="_blank">Solution</a></td>
+    <td><b>B0</b>[Chapter01]</td>
+    <td><a href="" target="_blank">Problems</a></td>
   </tr>
   
-  <tr>
-    <td>07.</td>
-    <td>
-      <p>Ask user for two integers a and b. Then swap (interchange) the values of a and b. That means, a should get the value of b and b should get the value of a.</p>
-    </td>
-    <td><a href="" target="_blank">Solution</a></td>
-  </tr>
+  
   
   
   <!---  
   <tr>
-    <td>02.</td>
+    <td>WEEK#X</td>
     <td>
       <p></p>
     </td>
-    <td><a href="" target="_blank">Solution</a></td>
+    <td><a href="" target="_blank">Problems</a></td>
   </tr>
   --->
   
