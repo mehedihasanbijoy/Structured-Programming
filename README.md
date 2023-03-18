@@ -69,7 +69,7 @@
   <tr>
     <td>WEEK#00</td>
     <td>
-      <p>First C Program, Character Set, C Tokens, Keywords and Identifiers, Constants and Variables, Data Types, Operators and Expressions <br> [ <a href="" target="_blank">Lecture Slide</a> ]</p>
+      <p>First C Program, Character Set, C Tokens, Keywords and Identifiers, Constants and Variables, Data Types, Operators and Expressions <br> [ <b>Lecture Slides:</b> <a href="" target="_blank">L01</a>, <a href="" target="_blank">L10</a> ]</p>
     </td>
     <td><b>B0</b>[Chapter01]</td>
     <td><a href="" target="_blank">ProblemSetA</a></td>
