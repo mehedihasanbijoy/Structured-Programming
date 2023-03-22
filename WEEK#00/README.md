@@ -67,7 +67,25 @@
   <tr>
     <td>07.</td>
     <td>
-      <p>Ask user for two integers a and b. Then swap (interchange) the values of a and b. That means, a should get the value of b and b should get the value of a.</p>
+      <p>Ask user for two integers a and b. Then swap (interchange) the values of a and b. That means, a should get the value of b and b should get the value of a. Hint: Use an extra variable.</p>
+    </td>
+    <td><a href="" target="_blank">Solution</a></td>
+  </tr>
+  
+  
+  <tr>
+    <td>08.</td>
+    <td>
+      <p>Ask user for two integers a and b. Then swap (interchange) the values of a and b using arithmetic (+, -, *, /) operator. You must not use an extra variable.</p>
+    </td>
+    <td><a href="" target="_blank">Solution</a></td>
+  </tr>
+  
+  
+  <tr>
+    <td>09.</td>
+    <td>
+      <p>Ask user for two integers a and b. Then swap (interchange) the values of a and b using bitwise XOR (^) operator. You must not use an extra variable.</p>
     </td>
     <td><a href="" target="_blank">Solution</a></td>
   </tr>
